@@ -227,22 +227,17 @@ Conecta Aurora al televisor y juega desde el sofá.
 
 ## 📸 Así se ve
 
-> *Reemplaza estas imágenes con tus capturas reales en `banner.png`, `inicio.png`, `biblioteca.png`, `tienda.png`, `detalle.png`, `ajustes.png`*
+> *Reemplaza estas imágenes con tus capturas reales en `banner.png`, `inicio.png`, `tienda.png`, `ajustes.png`*
 
-| 🏠 Inicio | 📚 Biblioteca |
+| 🏠 Inicio | 🛍️ Tienda |
 |---|---|
-| <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/inicio.png" width="420" /> | <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/biblioteca.png" width="420" /> |
-| *Hero cinematográfico + destacados* | *Toda tu colección con filtros* |
+| <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/inicio.png" width="420" /> | <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/tienda.png" width="420" /> |
+| *Hero cinematográfico + destacados* | *Steam, Epic, itch.io, HoYoPlay y Comunidad* |
 
-| 🛍️ Tienda | 🎮 Ficha de juego |
-|---|---|
-| <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/tienda.png" width="420" /> | <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/detalle.png" width="420" /> |
-| *Steam, Epic, itch.io, HoYoPlay y Comunidad* | *Tráiler, requisitos y acciones* |
-
-| 🎨 Personalización | 🚀 Modo Boost |
-|---|---|
-| <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/ajustes.png" width="420" /> | <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/boost.png" width="420" /> |
-| *Temas, fondos con video, CRT* | *Más FPS cerrando lastre* |
+| 🎨 Personalización |
+|---|
+| <img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/ajustes.png" width="420" /> |
+| *Temas, fondos con video, CRT* |
 
 ---
 
