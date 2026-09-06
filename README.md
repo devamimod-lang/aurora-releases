@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/banner.png" alt="Aurora Launcher" width="720" />
+<img src="https://raw.githubusercontent.com/devamimod-lang/aurora-releases/main/banner.jpg" alt="Aurora Launcher" width="720" />
 
 # ✨ Aurora Launcher
 ### Todos tus juegos. Todos tus launchers. Una sola aurora.
@@ -227,7 +227,7 @@ Conecta Aurora al televisor y juega desde el sofá.
 
 ## 📸 Así se ve
 
-> *Reemplaza estas imágenes con tus capturas reales en `banner.png`, `inicio.png`, `tienda.png`, `ajustes.png`*
+> *Reemplaza estas imágenes con tus capturas reales en `banner.jpg`, `inicio.png`, `tienda.png`, `ajustes.png`*
 
 | 🏠 Inicio | 🛍️ Tienda |
 |---|---|
